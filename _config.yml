@@ -1,7 +1,7 @@
 name: RPM Records Bogota
 favicon: null
-layout_spectrum: 0.46291562588885427
-typography_spectrum: 0.2977501682471484
+layout_spectrum: 0.23939
+typography_spectrum: 0.25573
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.46521492628380656
-  lightness: 0.8175085939001292
-  saturation: 0.741018800297752
-  rhythmicContrast: 0.6815956085920334
+    - '#181818'
+    - '#f8e505'
+    - '#5e5800'
+    - '#c3b71e'
+    - '#867415'
+  brandStrength: 0.125
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []

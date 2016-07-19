@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ¿Cómo llegar a RPM?
-datePublished: '2016-07-18T23:19:20.182Z'
-dateModified: '2016-07-18T23:18:44.543Z'
+datePublished: '2016-07-18T23:19:34.078Z'
+dateModified: '2016-07-18T23:19:26.983Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-18-como-llegar-a-rpm.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: como-llegar-a-rpm/index.html
 _type: Article
 

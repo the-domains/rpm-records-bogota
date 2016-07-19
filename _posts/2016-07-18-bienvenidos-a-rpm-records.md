@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-18T23:22:27.884Z'
-dateModified: '2016-07-18T23:22:19.860Z'
+datePublished: '2016-07-18T23:22:39.606Z'
+dateModified: '2016-07-18T23:22:32.331Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-07-18-bienvenidos-a-rpm-records.md
+starred: true
 url: bienvenidos-a-rpm-records/index.html
 _type: Article
 

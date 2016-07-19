@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: SITP
-datePublished: '2016-07-19T00:43:56.811Z'
-dateModified: '2016-07-19T00:43:33.156Z'
+datePublished: '2016-07-19T00:48:17.918Z'
+dateModified: '2016-07-19T00:45:06.085Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-18-como-llegar-a-rpm.md
@@ -27,12 +27,4 @@ _type: Article
 
 **Avenida 82**: 193B, 505, C52
 
-**Transmilenio:** B13
-B14
-B23
-B50
-B92
-B93 F1
-G5 C61
-F14, B10, B1
-B5,
+**Transmilenio:** B13 B14 B23 B50 B92 B93 F1 G5 C61 F14, B10, B1, B5

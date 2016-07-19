@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'https://youtu.be/TTAU7lLDZYU'
-datePublished: '2016-07-19T00:28:44.450Z'
-dateModified: '2016-07-19T00:28:17.973Z'
+description: ''
+datePublished: '2016-07-19T00:29:19.815Z'
+dateModified: '2016-07-19T00:29:01.842Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-19-httpsyoutubettau7lldzyu.md
@@ -18,5 +18,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a2bce1-2922-4d80-b0fa-e3e8d29f3eac.jpg)
-
-https://youtu.be/TTAU7lLDZYU

@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: SITP
-datePublished: '2016-07-19T00:37:49.276Z'
-dateModified: '2016-07-19T00:29:54.174Z'
+datePublished: '2016-07-19T00:43:56.811Z'
+dateModified: '2016-07-19T00:43:33.156Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-18-como-llegar-a-rpm.md
@@ -19,10 +19,20 @@ _type: Article
 ---
 **SITP**
 
-**Carrera 11:** A24, A8, R5
+**Carrera 11 (Andino):** 107B, 108, 192, 193B, 265, 421, 505, C52, C123, E61, E72, 466 P500, Z7, 544B
 
-**Carrera 15:** A24, A8, R5
+**Carrera 15:** 466, P500, Z7, 107B, 108, 265, 421, E61, 192, C123, E72
 
-**Transmilenio: **A24, A8, R5
+**Calle 84:** 193B
 
-**Calle 84:** A24, A8, R5
+**Avenida 82**: 193B, 505, C52
+
+**Transmilenio:** B13
+B14
+B23
+B50
+B92
+B93 F1
+G5 C61
+F14, B10, B1
+B5,

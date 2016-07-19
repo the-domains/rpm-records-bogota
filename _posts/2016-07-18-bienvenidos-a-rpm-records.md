@@ -5,13 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-18T23:22:39.606Z'
-dateModified: '2016-07-18T23:22:32.331Z'
-title: ''
-author: []
+datePublished: '2016-07-18T23:26:56.863Z'
+dateModified: '2016-07-18T23:25:42.818Z'
+title: Logo RPM
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-07-18-bienvenidos-a-rpm-records.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-07-18-bienvenidos-a-rpm-records.md
 starred: true
 url: bienvenidos-a-rpm-records/index.html
 _type: Article
